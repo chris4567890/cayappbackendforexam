@@ -15,7 +15,7 @@ import restSecrurity.exceptions.logger.Logger;
 import java.util.Set;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.stream.Collectors;
-
+    //comment to get this shit started alright maity
 public class ApplicationConfig {
     ObjectMapper om = new ObjectMapper();
     private Javalin app;
